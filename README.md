@@ -23,6 +23,8 @@ J'ai écrit les servlets de manière à ce que, pour les clients, les véhicules
     - Modifier un élément
 Je n'ai pas implémenté les pages "détails" car je n'ai pas compris à quoi elles devaient servir. Pour la liste des réservations, je n'ai pas réussi afficher les noms des clients plutôt que leur "id".
 
+J'ai enlevé les modèles pour les véhicules car ils n'étaient pas complètement implémentés dans les fichiers de base et je ne savais pas comment les rajouter au début du cours.
+
 Je n'ai pas compris comment réaliser les tests de la séance 3.
 
 J'ai implémenté la contrainte de l'âge minimum de 18 ans pour la création et à la mise à jour des utilisateurs.
