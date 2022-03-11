@@ -28,3 +28,5 @@ Je n'ai pas compris comment réaliser les tests de la séance 3.
 J'ai implémenté la contrainte de l'âge minimum de 18 ans pour la création et à la mise à jour des utilisateurs.
 
 J'ai rencontré un problème au début du cours lorsqu'on est passé sur le site en host local via MVN : le style ne fonctionnait pas sur les pages du fait d'un problème d'arborescence. J'ai déplacé le dossier "ressources" qui contient tout le style des pages dans le dossier "webapp" pour résoudre le problème. Néanmoins, il a été un obstacle important dans mon travail.
+
+Pour le dépot git de mon travail, je n'ai pas compris quels fichier devaient être ignorés via le .gitignore, donc j'ai tout laissé dans le doute.
